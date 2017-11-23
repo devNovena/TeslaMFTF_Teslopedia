@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d75c1526a2a247e4cb515052dd3f7106
+timeCreated: 1509108268
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Plotter Mono Std
+  fontNames:
+  - Plotter Mono Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 13dfe1f06c6c1f641bfb7e5e39264438, type: 3}
+  - {fileID: 12800000, guid: 11e5ba38ccefc0a409b34f23963d4f93, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

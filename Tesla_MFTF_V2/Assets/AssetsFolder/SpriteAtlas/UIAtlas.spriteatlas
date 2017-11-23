@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: UIAtlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings:
+    - m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+    packingParameters:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    packedHash:
+      serializedVersion: 2
+      Hash: 0dc012b95f5521a7b0ea8a6af1ffb200
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 12
+    hashString: 0dc012b95f5521a7b0ea8a6af1ffb200
+    totalSpriteSurfaceArea: 1601518
+    packables:
+    - {fileID: 102900000, guid: 7a9cfb31d3fdedc4285999c493511972, type: 3}
+    packedSpriteRenderDataKeys:
+    - 5bb7c21aa7759e94883ecc43a2e31b49: 21300000
+    - 39cc7847dade3934eae6ef8dd6c91c01: 21300000
+    - b9437c8139f9a654fa47ef26b95d03b9: 21300000
+    - ac22e7c3828e8a04392ce5d70a5ef778: 21300000
+    - 332752102e87c174c817851d734da659: 21300000
+    - 16eb6048dd286ec42bcb41580d30070d: 21300000
+    - d13a4b71a4b40b54b95a42c728b9e798: 21300000
+    - babf42f023cef1744be2551d0edcf176: 21300000
+    - febfba29bcec79c41a995e02ab1f38ee: 21300000
+    - a1cd3f50381df3d4eb255a27394ca68c: 21300000
+    - ac8c24ab2fef54340975bea3f72e76e0: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5bb7c21aa7759e94883ecc43a2e31b49, type: 3}
+  - {fileID: 21300000, guid: 39cc7847dade3934eae6ef8dd6c91c01, type: 3}
+  - {fileID: 21300000, guid: b9437c8139f9a654fa47ef26b95d03b9, type: 3}
+  - {fileID: 21300000, guid: ac22e7c3828e8a04392ce5d70a5ef778, type: 3}
+  - {fileID: 21300000, guid: 332752102e87c174c817851d734da659, type: 3}
+  - {fileID: 21300000, guid: 16eb6048dd286ec42bcb41580d30070d, type: 3}
+  - {fileID: 21300000, guid: d13a4b71a4b40b54b95a42c728b9e798, type: 3}
+  - {fileID: 21300000, guid: babf42f023cef1744be2551d0edcf176, type: 3}
+  - {fileID: 21300000, guid: febfba29bcec79c41a995e02ab1f38ee, type: 3}
+  - {fileID: 21300000, guid: a1cd3f50381df3d4eb255a27394ca68c, type: 3}
+  - {fileID: 21300000, guid: ac8c24ab2fef54340975bea3f72e76e0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - slika3
+  - slika4
+  - logo
+  - Background
+  - imageArrow1
+  - imageArrow0
+  - textGradient
+  - galleryClose
+  - strelica-l
+  - strelica-d
+  - crta
+  m_Tag: UIAtlas
+  m_IsVariant: 0

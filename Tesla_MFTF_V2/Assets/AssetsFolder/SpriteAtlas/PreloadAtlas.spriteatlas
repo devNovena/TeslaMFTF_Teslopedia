@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PreloadAtlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings:
+    - m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    packedHash:
+      serializedVersion: 2
+      Hash: 705cd5883f6ef91ebd4c6575580b2c93
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: 705cd5883f6ef91ebd4c6575580b2c93
+    totalSpriteSurfaceArea: 892544
+    packables:
+    - {fileID: 102900000, guid: 58022997607eabf4e8960162bee727e1, type: 3}
+    packedSpriteRenderDataKeys:
+    - 5983d8ed8232ab94993864d73d5b3dbb: 21300000
+    - 9072c17c26f43a74387b8523c40db751: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5983d8ed8232ab94993864d73d5b3dbb, type: 3}
+  - {fileID: 21300000, guid: 9072c17c26f43a74387b8523c40db751, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - logo-krug-preloader
+  - PreloadBack
+  m_Tag: PreloadAtlas
+  m_IsVariant: 0

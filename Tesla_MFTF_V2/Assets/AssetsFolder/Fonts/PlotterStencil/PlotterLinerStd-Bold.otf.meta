@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3e7fe1ebf243c80408a1ef22b9f7eeea
+timeCreated: 1509108267
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Plotter Liner Std
+  fontNames:
+  - Plotter Liner Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3705991dd7f255044982bbcf8e9233c0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
